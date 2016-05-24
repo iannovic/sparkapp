@@ -24,8 +24,8 @@ object MainExample {
     //val pathToFiles = arg(0)
     //val outputPath = arg(1)
     
-    val pathToFiles = "/src/main/resources/inputexample.txt"
-    val outputPath = "/src/main/resources/outputexample.txt"
+    val pathToFiles = "/user/user01/git/sparkapp/spark-app/src/main/resources/inputexample.txt"
+    val outputPath = "/user/user01/output/output.txt"
     
 
     logger.info("=> jobName \"" + jobName + "\"")
